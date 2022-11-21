@@ -1,0 +1,42 @@
+.head-container1{
+    background-color: aqua;
+    padding:25px;
+    margin-top: 2%;
+  
+}
+.head-container2{
+   float: right;
+   font-size: larger;
+}
+.X{
+   margin: 10px;
+}
+.p{
+    font: size 50px;;
+}
+.image{
+    margin-top: 30px;
+    border-radius: 30%;
+}
+.name{
+    font-size: 20px;
+    margin-top: 50px;
+    margin: 50px;
+}
+.college{
+    font-size: 15px;
+    margin-left: 5px;
+}
+.city{
+    font-size: 15px;
+    margin-left: 60px;
+}.icon{
+    margin-left:70px;
+    font-size: 20px;
+}.parent{
+    display:flex;
+}.description{
+  margin:40px;
+  width: 450px;
+  height: 450px;
+}
